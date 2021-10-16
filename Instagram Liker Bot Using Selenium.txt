@@ -1,0 +1,6 @@
+Selenium is basically used to control all the actions in browser like automations in web browser,testing
+to know that all buttons works or not.Suppose if you want to like all the post in instagram,accepts all the
+connections in linkedin,these are repeated actions in browser and we need selenium.
+
+for that we need a API,where we hit API Script it and our browser responds to it.(means go and scroll,like
+or in buttons actions performed)
